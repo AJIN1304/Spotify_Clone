@@ -34,7 +34,7 @@ The Library Page is designed to manage and organize the user's music collection.
 
 The Spotify Clone is optimized for various devices, ensuring a seamless experience on both desktop and mobile platforms. The responsive design adapts to different screen sizes, maintaining usability and aesthetics.
 
-![image](https://github.com/AJIN1304/Spotify_Clone/blob/main/assets/responsive_page.png)              ![image](https://github.com/AJIN1304/Spotify_Clone/blob/main/assets/responsive_page2.png)
+![image](https://github.com/AJIN1304/Spotify_Clone/blob/main/assets/res1.png)              ![image](https://github.com/AJIN1304/Spotify_Clone/blob/main/assets/responsive_page2.png)
 
 
 ## Installation
